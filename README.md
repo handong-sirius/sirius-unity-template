@@ -25,24 +25,24 @@ Assets/<br>
  │   ├─ Scripts/    &nbsp;&nbsp;&nbsp;&nbsp;    # 게임 핵심 스크립트<br>
  │   ├─ Scenes/     &nbsp;&nbsp;&nbsp;&nbsp;    # 씬 (메인, 테스트, 샘플 등)<br>
  │   ├─ Prefabs/    &nbsp;&nbsp;&nbsp;&nbsp;    # 프로젝트에서 쓰이는 주요 프리팹<br>
- │   └─ UI/         &nbsp;&nbsp;&nbsp;&nbsp;    # UI 캔버스, 버튼, 매니저 등<br>
+ │   └─ UI/         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    # UI 캔버스, 버튼, 매니저 등<br>
  │<br>
- ├─ _Art/                    # 그래픽 관련 (외부 리소스 + 직접 제작)<br>
- │   ├─ Sprites/             # 2D 이미지 (PNG 등)<br>
- │   ├─ Models/              # 3D 모델 (FBX 등)<br>
- │   └─ Materials/           # 머티리얼 및 셰이더<br>
- │
- ├─ _Audio/                  # 사운드 관련<br>
- │   ├─ Music/               # 배경음악<br>
- │   └─ SFX/                 # 효과음<br>
+ ├─ _Art/           &nbsp;&nbsp;&nbsp;&nbsp;    # 그래픽 관련 (외부 리소스 + 직접 제작)<br>
+ │   ├─ Sprites/    &nbsp;&nbsp;&nbsp;&nbsp;    # 2D 이미지 (PNG 등)<br>
+ │   ├─ Models/     &nbsp;&nbsp;&nbsp;&nbsp;    # 3D 모델 (FBX 등)<br>
+ │   └─ Materials/  &nbsp;&nbsp;&nbsp;&nbsp;    # 머티리얼 및 셰이더<br>
  │<br>
- ├─ _Animation/              # 애니메이션 관련<br>
- │   ├─ Controllers/         # 애니메이터 컨트롤러<br>
- │   └─ Clips/               # 애니메이션 클립<br>
+ ├─ _Audio/         &nbsp;&nbsp;&nbsp;&nbsp;    # 사운드 관련<br>
+ │   ├─ Music/      &nbsp;&nbsp;&nbsp;&nbsp;    # 배경음악<br>
+ │   └─ SFX/        &nbsp;&nbsp;&nbsp;&nbsp;    # 효과음<br>
  │<br>
- ├─ Plugins/                # 외부 플러그인 (에셋 스토어 등)<br>
+ ├─ _Animation/     &nbsp;&nbsp;&nbsp;&nbsp;    # 애니메이션 관련<br>
+ │   ├─ Controllers/    &nbsp;&nbsp;&nbsp;&nbsp;# 애니메이터 컨트롤러<br>
+ │   └─ Clips/      &nbsp;&nbsp;&nbsp;&nbsp;    # 애니메이션 클립<br>
  │<br>
- ├─ Tests/                  # 테스트용 씬 & 샘플 코드<br>
+ ├─ Plugins/        &nbsp;&nbsp;&nbsp;&nbsp;    # 외부 플러그인 (에셋 스토어 등)<br>
  │<br>
- └─ Docs/                   # 문서 (README, 가이드, 참고용 이미지)<br>
+ ├─ Tests/          &nbsp;&nbsp;&nbsp;&nbsp;    # 테스트용 씬 & 샘플 코드<br>
+ │<br>
+ └─ Docs/           &nbsp;&nbsp;&nbsp;&nbsp;    # 문서 (README, 가이드, 참고용 이미지)<br>
 
