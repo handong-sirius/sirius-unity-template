@@ -21,11 +21,11 @@
 
 ## 📁 폴더 구조
 Assets/<br>
- ├─ __Project/                # (핵심 게임 로직 & 프로젝트 고유 요소)<br>
- │   ├─ Scripts/             # 게임 핵심 스크립트<br>
- │   ├─ Scenes/              # 씬 (메인, 테스트, 샘플 등)<br>
- │   ├─ Prefabs/             # 프로젝트에서 쓰이는 주요 프리팹<br>
- │   └─ UI/                  # UI 캔버스, 버튼, 매니저 등<br>
+ ├─ __Project/      &nbsp;&nbsp;&nbsp;&nbsp;    # (핵심 게임 로직 & 프로젝트 고유 요소)<br>
+ │   ├─ Scripts/    &nbsp;&nbsp;&nbsp;&nbsp;    # 게임 핵심 스크립트<br>
+ │   ├─ Scenes/     &nbsp;&nbsp;&nbsp;&nbsp;    # 씬 (메인, 테스트, 샘플 등)<br>
+ │   ├─ Prefabs/    &nbsp;&nbsp;&nbsp;&nbsp;    # 프로젝트에서 쓰이는 주요 프리팹<br>
+ │   └─ UI/         &nbsp;&nbsp;&nbsp;&nbsp;    # UI 캔버스, 버튼, 매니저 등<br>
  │<br>
  ├─ _Art/                    # 그래픽 관련 (외부 리소스 + 직접 제작)<br>
  │   ├─ Sprites/             # 2D 이미지 (PNG 등)<br>
