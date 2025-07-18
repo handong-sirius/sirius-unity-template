@@ -21,28 +21,28 @@
 
 ## 📁 폴더 구조
 Assets/<br>
- ├─ _Project/                # (핵심 게임 로직 & 프로젝트 고유 요소)
- │   ├─ Scripts/             # 게임 핵심 스크립트
- │   ├─ Scenes/              # 씬 (메인, 테스트, 샘플 등)
- │   ├─ Prefabs/             # 프로젝트에서 쓰이는 주요 프리팹
- │   └─ UI/                  # UI 캔버스, 버튼, 매니저 등
+ ├─ __Project/                # (핵심 게임 로직 & 프로젝트 고유 요소)<br>
+ │   ├─ Scripts/             # 게임 핵심 스크립트<br>
+ │   ├─ Scenes/              # 씬 (메인, 테스트, 샘플 등)<br>
+ │   ├─ Prefabs/             # 프로젝트에서 쓰이는 주요 프리팹<br>
+ │   └─ UI/                  # UI 캔버스, 버튼, 매니저 등<br>
+ │<br>
+ ├─ _Art/                    # 그래픽 관련 (외부 리소스 + 직접 제작)<br>
+ │   ├─ Sprites/             # 2D 이미지 (PNG 등)<br>
+ │   ├─ Models/              # 3D 모델 (FBX 등)<br>
+ │   └─ Materials/           # 머티리얼 및 셰이더<br>
  │
- ├─ _Art/                    # 그래픽 관련 (외부 리소스 + 직접 제작)
- │   ├─ Sprites/             # 2D 이미지 (PNG 등)
- │   ├─ Models/              # 3D 모델 (FBX 등)
- │   └─ Materials/           # 머티리얼 및 셰이더
- │
- ├─ _Audio/                  # 사운드 관련
- │   ├─ Music/               # 배경음악
- │   └─ SFX/                 # 효과음
- │
- ├─ _Animation/              # 애니메이션 관련
- │   ├─ Controllers/         # 애니메이터 컨트롤러
- │   └─ Clips/               # 애니메이션 클립
- │
- ├─ _Plugins/                # 외부 플러그인 (에셋 스토어 등)
- │
- ├─ _Tests/                  # 테스트용 씬 & 샘플 코드
- │
- └─ _Docs/                   # 문서 (README, 가이드, 참고용 이미지)
+ ├─ _Audio/                  # 사운드 관련<br>
+ │   ├─ Music/               # 배경음악<br>
+ │   └─ SFX/                 # 효과음<br>
+ │<br>
+ ├─ _Animation/              # 애니메이션 관련<br>
+ │   ├─ Controllers/         # 애니메이터 컨트롤러<br>
+ │   └─ Clips/               # 애니메이션 클립<br>
+ │<br>
+ ├─ Plugins/                # 외부 플러그인 (에셋 스토어 등)<br>
+ │<br>
+ ├─ Tests/                  # 테스트용 씬 & 샘플 코드<br>
+ │<br>
+ └─ Docs/                   # 문서 (README, 가이드, 참고용 이미지)<br>
 
